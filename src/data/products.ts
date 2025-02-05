@@ -147,24 +147,24 @@ export const products = [
 export const categories = [
   {
     id: 1,
-    name: "Electronics",
+    name: "Pampore Saffron",
     image: "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400",
     subcategories: ["Smartphones", "Laptops", "Audio", "Accessories"]
   },
   {
     id: 2,
-    name: "Fashion",
+    name: "Kashmiri Honey",
     image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400",
     subcategories: ["Men", "Women", "Kids", "Accessories"]
   },
   {
     id: 3,
-    name: "Home & Living",
+    name: "Keshar",
     image: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=400",
     subcategories: ["Furniture", "Decor", "Kitchen", "Lighting"]
   }, {
     id: 4,
-    name: "Fashion",
+    name: "Saffron",
     image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400",
     subcategories: ["Men", "Women", "Kids", "Accessories"]
   },
